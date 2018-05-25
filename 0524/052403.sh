@@ -1,2 +1,2 @@
 #!/bin/sh
-cut -d : -f 1,3 /etc/passwd | sort -rn
+du -b /etc/passwd | sort -n | tac
