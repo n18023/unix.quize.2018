@@ -1,3 +1,2 @@
 #!/bin/sh
-cd log
-head -n 5 log
+sudo head -n 5 log

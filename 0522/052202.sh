@@ -1,3 +1,4 @@
 #!/bin/sh
-cd log
+sudo tail -n 5 log
+
 
