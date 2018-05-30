@@ -1,2 +1,2 @@
 #!/bin/sh
-sudu rm log
+sudo rm log
